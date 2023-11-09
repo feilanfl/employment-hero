@@ -1,0 +1,577 @@
+	EmployeeID	DepartmentID	DepartmentName	RoleName	AnnualSalary	HireDate	SatisfactionRating	PerformanceScore	IsDeleted
+0	1	5	Operations	Executive	71699.0	2022-12-31 00:00:00	3	8	False
+2	4	2	Marketing	Manager	50406.0	2022-12-30 00:00:00	3	8	False
+3	5	2	Marketing	Executive	77449.0	2022-12-30 00:00:00	3	6	False
+5	8	5	Operations	Manager	62067.0	2022-12-28 00:00:00	1	1	False
+6	10	2	Marketing	Associate	51500.0	2022-12-29 00:00:00	2	6	False
+10	14	3	Finance	Executive	71103.0	2022-12-26 00:00:00	1	4	False
+11	15	4	Human Resources	Manager	58199.0	2022-12-30 00:00:00	4	6	False
+12	16	1	Sales	Manager	50893.0	2022-12-27 00:00:00	5	10	False
+13	18	1	Sales	Associate	39096.0	2022-12-30 00:00:00	4	6	False
+15	20	5	Operations	Associate	35747.0	2022-12-27 00:00:00	2	6	False
+16	21	2	Marketing	Executive	81474.0	2022-12-24 00:00:00	4	6	False
+21	25	4	Human Resources	Executive	80100.0	2022-12-24 00:00:00	2	3	False
+23	28	1	Sales	Executive	91290.0	2022-12-28 00:00:00	5	9	False
+24	29	3	Finance	Manager	59569.0	2022-12-14 00:00:00	3	3	False
+25	30	5	Operations	Associate	33223.0	2022-12-13 00:00:00	4	4	False
+26	32	1	Sales	Manager	59401.0	2022-12-30 00:00:00	1	6	False
+28	39	1	Sales	Associate	44116.0	2022-12-29 00:00:00	2	2	False
+30	41	2	Marketing	Manager	62130.0	2022-12-31 00:00:00	2	5	False
+31	42	5	Operations	Manager	54300.0	2022-12-27 00:00:00	4	9	False
+33	44	3	Finance	Manager	62355.0	2022-12-28 00:00:00	2	5	False
+37	49	3	Finance	Manager	54574.0	2022-12-01 00:00:00	1	4	False
+39	52	3	Finance	Associate	44430.0	2022-12-02 00:00:00	2	6	False
+40	54	4	Human Resources	Manager	47430.0	2022-12-21 00:00:00	4	8	False
+41	55	4	Human Resources	Associate	48091.0	2022-12-09 00:00:00	2	2	False
+42	56	3	Finance	Associate	47104.0	2022-12-26 00:00:00	4	6	False
+45	59	4	Human Resources	Executive	76070.0	2022-12-18 00:00:00	2	7	False
+46	60	2	Marketing	Associate	36140.0	2022-12-14 00:00:00	1	6	False
+47	61	2	Marketing	Manager	62548.0	2022-12-23 00:00:00	1	6	False
+48	63	3	Finance	Executive	76879.0	2022-11-25 00:00:00	2	2	False
+49	67	5	Operations	Manager	63640.0	2022-12-09 00:00:00	5	8	False
+50	69	4	Human Resources	Manager	55220.0	2022-11-16 00:00:00	4	6	False
+51	70	2	Marketing	Manager	63898.0	2022-11-15 00:00:00	3	3	False
+52	71	5	Operations	Executive	62199.0	2022-12-13 00:00:00	2	4	False
+54	74	4	Human Resources	Manager	69699.0	2022-11-02 00:00:00	2	5	False
+56	78	4	Human Resources	Associate	42164.0	2022-12-29 00:00:00	5	9	False
+58	81	2	Marketing	Associate	35666.0	2022-11-02 00:00:00	4	4	False
+60	83	2	Marketing	Executive	86558.0	2022-11-16 00:00:00	3	8	False
+61	85	2	Marketing	Executive	74689.0	2022-11-16 00:00:00	1	1	False
+63	87	1	Sales	CEO	491751.0	2022-12-17 00:00:00	3	7	False
+64	89	1	Sales	Associate	30867.0	2022-11-27 00:00:00	4	6	False
+67	93	2	Marketing	Executive	85834.0	2022-11-11 00:00:00	3	4	False
+68	94	1	Sales	Executive	71012.0	2022-10-26 00:00:00	5	7	False
+72	98	1	Sales	CEO	509552.0	2022-12-28 00:00:00	2	4	False
+73	100	1	Sales	CEO	501172.0	2022-10-24 00:00:00	3	8	False
+74	102	4	Human Resources	Manager	58149.0	2022-10-17 00:00:00	2	4	False
+75	103	2	Marketing	Manager	60904.0	2022-10-26 00:00:00	4	6	False
+76	104	1	Sales	Associate	46567.0	2022-12-17 00:00:00	1	2	False
+80	113	3	Finance	Associate	40322.0	2022-11-20 00:00:00	3	5	False
+82	118	5	Operations	Executive	76121.0	2022-10-20 00:00:00	4	8	False
+83	119	2	Marketing	Associate	38639.0	2022-10-27 00:00:00	5	5	False
+86	123	2	Marketing	Associate	37596.0	2022-12-04 00:00:00	3	5	False
+88	125	2	Marketing	Associate	33945.0	2022-10-07 00:00:00	2	7	False
+89	126	1	Sales	Manager	52649.0	2022-11-15 00:00:00	1	5	False
+91	129	4	Human Resources	Manager	62156.0	2022-12-10 00:00:00	1	1	False
+92	130	3	Finance	Associate	42514.0	2022-11-17 00:00:00	3	6	False
+94	133	5	Operations	Executive	82077.0	2022-12-11 00:00:00	2	7	False
+96	137	3	Finance	Executive	88511.0	2022-09-23 00:00:00	3	5	False
+98	139	2	Marketing	Associate	38030.0	2022-09-29 00:00:00	2	5	False
+100	145	4	Human Resources	Executive	74168.0	2022-12-20 00:00:00	3	5	False
+101	146	3	Finance	Associate	44614.0	2022-12-02 00:00:00	1	2	False
+103	149	4	Human Resources	Manager	61942.0	2022-12-09 00:00:00	5	10	False
+104	153	1	Sales	Manager	64471.0	2022-09-26 00:00:00	3	5	False
+106	155	4	Human Resources	Associate	38842.0	2022-10-14 00:00:00	2	4	False
+107	156	4	Human Resources	Manager	47015.0	2022-10-29 00:00:00	5	8	False
+108	157	5	Operations	Manager	73771.0	2022-09-20 00:00:00	3	3	False
+109	158	5	Operations	Associate	44025.0	2022-09-18 00:00:00	5	10	False
+111	160	5	Operations	Executive	91176.0	2022-10-20 00:00:00	1	1	False
+112	161	2	Marketing	Executive	71469.0	2022-12-23 00:00:00	4	6	False
+113	163	3	Finance	Executive	79068.0	2022-09-17 00:00:00	4	4	False
+116	169	5	Operations	Associate	43066.0	2022-11-16 00:00:00	5	6	False
+118	171	2	Marketing	Executive	80068.0	2022-09-11 00:00:00	5	10	False
+122	176	1	Sales	Associate	44383.0	2022-11-02 00:00:00	4	8	False
+124	178	1	Sales	Executive	91638.0	2022-10-19 00:00:00	2	2	False
+126	181	4	Human Resources	Executive	73546.0	2022-08-19 00:00:00	5	8	False
+127	182	1	Sales	Associate	36012.0	2022-11-27 00:00:00	1	4	False
+130	187	1	Sales	Manager	65900.0	2022-10-30 00:00:00	2	6	False
+131	189	1	Sales	Associate	50166.0	2022-12-14 00:00:00	1	4	False
+132	191	2	Marketing	Manager	58315.0	2022-08-16 00:00:00	3	5	False
+133	192	2	Marketing	Executive	82414.0	2022-11-23 00:00:00	3	7	False
+135	194	2	Marketing	Manager	60143.0	2022-09-05 00:00:00	2	2	False
+137	201	3	Finance	Manager	55093.0	2022-12-24 00:00:00	1	4	False
+138	202	3	Finance	Associate	48319.0	2022-10-06 00:00:00	5	10	False
+139	204	5	Operations	Manager	48678.0	2022-11-15 00:00:00	4	9	False
+140	205	4	Human Resources	Manager	60314.0	2022-11-03 00:00:00	4	8	False
+141	206	3	Finance	Associate	44598.0	2022-08-09 00:00:00	3	5	False
+143	209	4	Human Resources	Executive	93215.0	2022-11-10 00:00:00	5	9	False
+144	210	3	Finance	Associate	42150.0	2022-08-21 00:00:00	3	7	False
+145	211	4	Human Resources	Executive	68306.0	2022-10-31 00:00:00	4	8	False
+148	214	2	Marketing	Associate	36574.0	2022-08-01 00:00:00	1	1	False
+149	215	4	Human Resources	Executive	78349.0	2022-09-30 00:00:00	3	8	False
+150	216	4	Human Resources	Manager	65923.0	2022-10-13 00:00:00	4	9	False
+151	217	2	Marketing	Manager	62617.0	2022-09-25 00:00:00	4	9	False
+152	219	2	Marketing	Manager	62439.0	2022-08-31 00:00:00	5	9	False
+153	222	1	Sales	Executive	67065.0	2022-08-22 00:00:00	3	4	False
+154	223	5	Operations	Executive	95032.0	2022-11-11 00:00:00	1	1	False
+155	224	1	Sales	Manager	53855.0	2022-10-03 00:00:00	4	7	False
+156	225	4	Human Resources	Executive	86026.0	2022-10-19 00:00:00	3	5	False
+157	226	2	Marketing	Executive	75140.0	2022-08-23 00:00:00	2	2	False
+158	227	2	Marketing	Associate	42633.0	2022-12-25 00:00:00	5	10	False
+159	228	4	Human Resources	Manager	60149.0	2022-08-01 00:00:00	5	6	False
+161	232	5	Operations	Executive	84447.0	2022-11-18 00:00:00	3	8	False
+163	234	5	Operations	Associate	41455.0	2022-12-31 00:00:00	1	2	False
+164	235	5	Operations	Manager	59857.0	2022-12-01 00:00:00	4	7	False
+165	236	1	Sales	Manager	62300.0	2022-07-18 00:00:00	1	1	False
+166	237	5	Operations	Associate	39252.0	2022-08-26 00:00:00	5	6	False
+168	242	2	Marketing	Manager	58427.0	2022-08-29 00:00:00	4	9	False
+170	244	4	Human Resources	Manager	42085.0	2022-09-20 00:00:00	2	3	False
+172	246	1	Sales	Associate	31695.0	2022-08-17 00:00:00	2	2	False
+173	247	5	Operations	Associate	40399.0	2022-07-15 00:00:00	1	4	False
+176	252	2	Marketing	Executive	86192.0	2022-07-08 00:00:00	1	5	False
+177	253	4	Human Resources	Associate	40120.0	2022-06-19 00:00:00	1	6	False
+178	254	5	Operations	Executive	67871.0	2022-07-26 00:00:00	2	4	False
+179	255	4	Human Resources	Associate	40153.0	2022-12-31 00:00:00	2	6	False
+182	257	1	Sales	Manager	60606.0	2022-12-09 00:00:00	2	3	False
+184	259	3	Finance	Executive	62012.0	2022-06-10 00:00:00	4	4	False
+185	260	5	Operations	Executive	64328.0	2022-06-18 00:00:00	3	4	False
+186	262	3	Finance	Executive	65632.0	2022-10-20 00:00:00	3	5	False
+187	263	4	Human Resources	Manager	64373.0	2022-09-03 00:00:00	1	3	False
+188	264	4	Human Resources	Executive	63422.0	2022-11-03 00:00:00	4	8	False
+189	265	2	Marketing	Associate	53043.0	2022-06-17 00:00:00	3	4	False
+190	266	2	Marketing	Associate	33936.0	2022-06-14 00:00:00	3	5	False
+191	268	1	Sales	Manager	60059.0	2022-09-04 00:00:00	4	9	False
+192	269	5	Operations	Manager	51538.0	2022-07-20 00:00:00	3	6	False
+194	272	4	Human Resources	Manager	58128.0	2022-08-27 00:00:00	5	6	False
+196	275	1	Sales	Manager	67646.0	2022-11-02 00:00:00	1	3	False
+198	278	4	Human Resources	Manager	54423.0	2022-07-11 00:00:00	1	6	False
+201	284	3	Finance	Manager	59132.0	2022-08-20 00:00:00	2	7	False
+202	285	3	Finance	Executive	60183.0	2022-10-16 00:00:00	3	4	False
+204	287	2	Marketing	CEO	509423.0	2022-10-19 00:00:00	4	9	False
+206	291	2	Marketing	Executive	80810.0	2022-05-29 00:00:00	1	6	False
+207	293	2	Marketing	Associate	41117.0	2022-08-08 00:00:00	2	5	False
+209	295	3	Finance	Manager	60795.0	2022-07-13 00:00:00	3	7	False
+211	297	5	Operations	Executive	78025.0	2022-09-08 00:00:00	5	8	False
+212	298	5	Operations	Executive	80111.0	2022-09-16 00:00:00	1	1	False
+213	299	2	Marketing	Manager	62851.0	2022-05-10 00:00:00	4	6	False
+214	301	3	Finance	Associate	31154.0	2022-12-24 00:00:00	2	5	False
+215	302	5	Operations	Associate	36273.0	2022-10-18 00:00:00	2	4	False
+216	303	1	Sales	Associate	39391.0	2022-11-29 00:00:00	3	6	False
+217	305	2	Marketing	Associate	34071.0	2022-08-23 00:00:00	4	7	False
+218	308	1	Sales	Manager	63583.0	2022-10-16 00:00:00	1	3	False
+220	310	3	Finance	Manager	59420.0	2022-12-09 00:00:00	2	6	False
+221	312	1	Sales	Associate	42983.0	2022-12-14 00:00:00	4	9	False
+222	313	2	Marketing	Executive	76874.0	2022-06-03 00:00:00	4	4	False
+225	317	3	Finance	Manager	55221.0	2022-06-09 00:00:00	4	8	False
+226	318	5	Operations	CEO	515643.0	2022-07-10 00:00:00	2	4	False
+229	321	5	Operations	Executive	91145.0	2022-10-29 00:00:00	5	10	False
+230	323	1	Sales	Manager	66617.0	2022-10-20 00:00:00	3	8	False
+231	324	5	Operations	Associate	51082.0	2022-08-14 00:00:00	2	4	False
+233	327	1	Sales	Manager	56577.0	2022-06-06 00:00:00	5	9	False
+234	328	2	Marketing	Manager	66107.0	2022-10-23 00:00:00	4	5	False
+236	330	4	Human Resources	Manager	56385.0	2022-12-29 00:00:00	4	6	False
+237	331	1	Sales	Executive	86448.0	2022-11-26 00:00:00	2	4	False
+238	336	2	Marketing	Manager	57774.0	2022-06-18 00:00:00	4	4	False
+239	338	3	Finance	Associate	35707.0	2022-06-09 00:00:00	3	3	False
+246	345	4	Human Resources	Associate	40782.0	2022-05-16 00:00:00	1	2	False
+247	347	4	Human Resources	Manager	62985.0	2022-06-14 00:00:00	5	7	False
+248	348	2	Marketing	Associate	40596.0	2022-04-13 00:00:00	4	6	False
+249	349	4	Human Resources	Associate	41109.0	2022-05-31 00:00:00	4	6	False
+251	351	5	Operations	Executive	80245.0	2022-05-20 00:00:00	4	4	False
+252	352	4	Human Resources	Associate	44351.0	2022-08-24 00:00:00	4	6	False
+254	355	1	Sales	Associate	34034.0	2022-07-06 00:00:00	4	6	False
+256	359	1	Sales	Manager	54053.0	2022-04-30 00:00:00	1	3	False
+258	364	1	Sales	Executive	84350.0	2022-05-25 00:00:00	5	5	False
+260	365	4	Human Resources	Executive	67696.0	2022-09-16 00:00:00	2	6	False
+261	366	3	Finance	Executive	86846.0	2022-11-24 00:00:00	4	8	False
+262	368	5	Operations	Executive	63746.0	2022-11-28 00:00:00	5	7	False
+263	369	5	Operations	Manager	68880.0	2022-10-19 00:00:00	4	9	False
+264	371	4	Human Resources	Manager	69536.0	2022-11-27 00:00:00	2	5	False
+265	372	5	Operations	Associate	35126.0	2022-08-08 00:00:00	4	4	False
+266	373	1	Sales	Executive	81846.0	2022-12-19 00:00:00	1	4	False
+268	375	2	Marketing	Executive	89903.0	2022-12-02 00:00:00	2	4	False
+269	377	3	Finance	Executive	77836.0	2022-06-10 00:00:00	3	8	False
+271	380	3	Finance	Executive	76835.0	2022-08-12 00:00:00	3	7	False
+273	383	5	Operations	Manager	62217.0	2022-06-19 00:00:00	2	6	False
+276	386	3	Finance	Executive	85943.0	2022-07-31 00:00:00	1	6	False
+277	387	1	Sales	Executive	82583.0	2022-11-28 00:00:00	5	9	False
+279	388	5	Operations	Executive	72294.0	2022-09-24 00:00:00	5	5	False
+285	398	2	Marketing	Associate	37150.0	2022-12-13 00:00:00	3	5	False
+286	399	1	Sales	Executive	87725.0	2022-03-02 00:00:00	2	7	False
+287	400	4	Human Resources	Manager	61878.0	2022-03-05 00:00:00	3	7	False
+288	401	3	Finance	Manager	57605.0	2022-03-23 00:00:00	5	8	False
+290	403	3	Finance	Executive	77180.0	2022-11-10 00:00:00	5	7	False
+291	404	1	Sales	Associate	48077.0	2022-08-09 00:00:00	4	5	False
+292	405	1	Sales	Executive	72806.0	2022-04-18 00:00:00	2	6	False
+293	406	1	Sales	Manager	64187.0	2022-12-15 00:00:00	3	4	False
+294	408	4	Human Resources	Associate	49356.0	2022-10-16 00:00:00	2	5	False
+296	410	5	Operations	Manager	49559.0	2022-12-14 00:00:00	4	8	False
+297	411	3	Finance	Associate	38391.0	2022-11-17 00:00:00	2	3	False
+298	412	3	Finance	Associate	33967.0	2022-09-12 00:00:00	3	8	False
+300	415	5	Operations	Executive	86883.0	2022-02-08 00:00:00	1	3	False
+302	417	2	Marketing	Manager	49920.0	2022-11-20 00:00:00	4	8	False
+304	420	4	Human Resources	Executive	81634.0	2022-09-24 00:00:00	5	8	False
+305	421	3	Finance	Executive	65371.0	2022-08-28 00:00:00	1	6	False
+308	425	4	Human Resources	Associate	42474.0	2022-03-19 00:00:00	5	10	False
+312	429	3	Finance	Associate	40998.0	2022-07-06 00:00:00	4	4	False
+313	430	2	Marketing	Associate	35419.0	2022-02-04 00:00:00	2	3	False
+315	433	4	Human Resources	Executive	75989.0	2022-04-09 00:00:00	5	8	False
+316	434	3	Finance	Manager	66804.0	2022-06-20 00:00:00	2	3	False
+318	437	1	Sales	Executive	71347.0	2022-05-28 00:00:00	4	6	False
+319	438	5	Operations	Associate	35719.0	2022-10-20 00:00:00	4	8	False
+320	439	5	Operations	Executive	83878.0	2022-05-05 00:00:00	1	4	False
+321	440	1	Sales	Associate	52213.0	2022-02-20 00:00:00	5	7	False
+323	442	3	Finance	Manager	60043.0	2022-10-29 00:00:00	4	5	False
+326	446	2	Marketing	Manager	57181.0	2022-09-10 00:00:00	3	3	False
+328	448	3	Finance	Executive	84399.0	2022-10-09 00:00:00	3	8	False
+329	450	3	Finance	Executive	81637.0	2022-07-28 00:00:00	4	6	False
+332	455	1	Sales	Manager	55515.0	2022-11-10 00:00:00	2	3	False
+334	457	4	Human Resources	Associate	43833.0	2022-10-12 00:00:00	1	5	False
+335	459	3	Finance	Executive	79873.0	2022-05-03 00:00:00	3	5	False
+336	460	3	Finance	Executive	82022.0	2022-11-20 00:00:00	1	5	False
+338	470	4	Human Resources	Associate	40331.0	2022-04-22 00:00:00	4	4	False
+339	473	5	Operations	Manager	55265.0	2022-11-21 00:00:00	2	3	False
+343	479	2	Marketing	Associate	49906.0	2022-12-17 00:00:00	3	4	False
+344	480	1	Sales	Manager	52239.0	2022-11-09 00:00:00	4	8	False
+345	482	5	Operations	Manager	58643.0	2022-09-11 00:00:00	4	6	False
+346	483	5	Operations	Executive	79286.0	2022-10-01 00:00:00	1	2	False
+347	484	5	Operations	Executive	93037.0	2022-09-28 00:00:00	1	6	False
+349	486	2	Marketing	Associate	42106.0	2022-09-02 00:00:00	3	4	False
+351	489	3	Finance	Manager	72052.0	2022-01-15 00:00:00	4	7	False
+352	490	3	Finance	Manager	54069.0	2022-12-15 00:00:00	3	6	False
+353	491	1	Sales	Associate	40693.0	2022-03-24 00:00:00	2	5	False
+357	494	4	Human Resources	CEO	521415.0	2022-06-19 00:00:00	5	10	False
+358	496	4	Human Resources	Associate	38800.0	2022-09-04 00:00:00	1	4	False
+360	498	5	Operations	Executive	88421.0	2022-08-18 00:00:00	4	5	False
+364	501	5	Operations	Associate	45771.0	2022-07-23 00:00:00	4	5	False
+365	502	2	Marketing	Manager	68495.0	2022-01-02 00:00:00	4	5	False
+367	503	5	Operations	Manager	56963.0	2022-12-18 00:00:00	5	6	False
+368	504	2	Marketing	Manager	52114.0	2022-02-15 00:00:00	3	6	False
+369	505	5	Operations	Associate	46187.0	2022-01-16 00:00:00	5	9	False
+371	507	2	Marketing	Manager	54127.0	2022-12-23 00:00:00	3	5	False
+372	509	5	Operations	Manager	64282.0	2022-05-17 00:00:00	3	3	False
+373	510	1	Sales	Manager	59989.0	2022-11-01 00:00:00	3	8	False
+375	512	1	Sales	Manager	50401.0	2022-10-20 00:00:00	5	6	False
+378	515	3	Finance	Executive	81008.0	2022-03-04 00:00:00	2	7	False
+379	516	3	Finance	Executive	76984.0	2021-12-27 00:00:00	1	2	False
+380	518	5	Operations	Manager	57551.0	2021-11-17 00:00:00	3	8	False
+382	522	1	Sales	Executive	88656.0	2021-11-12 00:00:00	5	9	False
+384	524	1	Sales	Executive	88223.0	2022-03-03 00:00:00	3	5	False
+385	525	2	Marketing	Executive	86635.0	2022-05-29 00:00:00	4	5	False
+389	529	2	Marketing	Executive	71624.0	2021-12-15 00:00:00	5	6	False
+391	530	1	Sales	Manager	56923.0	2022-11-21 00:00:00	3	3	False
+392	531	5	Operations	Manager	72090.0	2022-08-30 00:00:00	3	5	False
+395	534	3	Finance	Associate	30461.0	2022-12-31 00:00:00	4	7	False
+397	535	3	Finance	Associate	41118.0	2022-08-24 00:00:00	4	4	False
+398	537	2	Marketing	Associate	36871.0	2022-04-06 00:00:00	3	7	False
+399	539	1	Sales	Manager	67013.0	2022-04-27 00:00:00	1	5	False
+400	540	4	Human Resources	Executive	76075.0	2021-10-20 00:00:00	4	8	False
+402	543	5	Operations	Executive	82890.0	2022-06-12 00:00:00	1	3	False
+404	546	5	Operations	Associate	41735.0	2022-05-12 00:00:00	3	3	False
+405	548	1	Sales	Executive	79864.0	2022-09-29 00:00:00	2	7	False
+410	556	3	Finance	Associate	35419.0	2022-06-02 00:00:00	4	7	False
+413	562	5	Operations	Executive	81603.0	2022-12-11 00:00:00	2	6	False
+416	568	4	Human Resources	Associate	40801.0	2022-05-02 00:00:00	3	6	False
+417	569	5	Operations	Manager	74107.0	2021-10-17 00:00:00	3	5	False
+418	571	5	Operations	Associate	40375.0	2022-09-25 00:00:00	2	5	False
+422	575	4	Human Resources	Associate	37876.0	2022-01-05 00:00:00	4	7	False
+423	576	5	Operations	Associate	47837.0	2022-02-04 00:00:00	5	6	False
+424	578	2	Marketing	Associate	48465.0	2021-09-24 00:00:00	4	6	False
+425	579	2	Marketing	Manager	59607.0	2022-09-07 00:00:00	2	6	False
+426	581	2	Marketing	Associate	50765.0	2022-04-21 00:00:00	3	3	False
+428	585	2	Marketing	Executive	75415.0	2022-05-25 00:00:00	2	3	False
+429	586	4	Human Resources	Executive	71118.0	2022-01-29 00:00:00	4	6	False
+430	587	5	Operations	Executive	68637.0	2022-06-09 00:00:00	1	3	False
+432	591	4	Human Resources	CEO	499603.0	2022-02-05 00:00:00	1	3	False
+433	595	4	Human Resources	Executive	74710.0	2021-09-20 00:00:00	2	7	False
+434	596	4	Human Resources	Manager	61857.0	2022-08-05 00:00:00	5	7	False
+438	602	5	Operations	Executive	83175.0	2022-12-11 00:00:00	1	5	False
+439	603	5	Operations	Associate	46796.0	2022-06-22 00:00:00	1	1	False
+441	605	3	Finance	Associate	34891.0	2022-11-12 00:00:00	1	4	False
+442	606	1	Sales	Associate	39384.0	2022-12-01 00:00:00	3	6	False
+445	610	1	Sales	Executive	76363.0	2022-03-25 00:00:00	3	6	False
+446	611	3	Finance	Manager	48291.0	2022-03-22 00:00:00	1	2	False
+447	612	3	Finance	Executive	70463.0	2022-10-10 00:00:00	5	7	False
+450	619	3	Finance	Associate	39100.0	2022-10-19 00:00:00	1	3	False
+453	623	3	Finance	Manager	62040.0	2021-10-13 00:00:00	5	7	False
+454	626	1	Sales	Associate	44623.0	2022-01-02 00:00:00	1	2	False
+456	627	1	Sales	Manager	57373.0	2022-09-16 00:00:00	4	8	False
+457	628	3	Finance	Associate	42442.0	2021-09-04 00:00:00	2	5	False
+459	631	3	Finance	Executive	82699.0	2022-03-29 00:00:00	3	4	False
+460	633	4	Human Resources	CEO	489063.0	2022-07-26 00:00:00	3	4	False
+461	634	1	Sales	Executive	85460.0	2022-03-02 00:00:00	2	4	False
+463	635	1	Sales	Manager	69218.0	2022-03-09 00:00:00	2	7	False
+467	638	4	Human Resources	Associate	34336.0	2022-03-24 00:00:00	5	10	False
+471	642	3	Finance	Executive	79364.0	2022-06-14 00:00:00	3	6	False
+472	644	1	Sales	Executive	79829.0	2021-09-18 00:00:00	4	7	False
+473	646	3	Finance	Associate	45274.0	2021-09-04 00:00:00	2	5	False
+474	648	3	Finance	Associate	42760.0	2021-10-20 00:00:00	1	1	False
+475	649	4	Human Resources	Executive	73482.0	2021-12-21 00:00:00	1	2	False
+477	651	2	Marketing	Associate	36573.0	2021-09-07 00:00:00	1	4	False
+479	652	3	Finance	Associate	49833.0	2022-02-17 00:00:00	5	5	False
+484	658	1	Sales	CEO	504299.0	2022-02-23 00:00:00	4	5	False
+485	659	3	Finance	Associate	41260.0	2021-11-14 00:00:00	2	3	False
+486	662	3	Finance	Associate	46489.0	2022-03-06 00:00:00	4	8	False
+487	663	3	Finance	Executive	77561.0	2021-12-09 00:00:00	1	1	False
+490	672	1	Sales	Executive	83240.0	2021-09-15 00:00:00	2	7	False
+491	673	3	Finance	Associate	37320.0	2022-03-06 00:00:00	1	6	False
+492	674	2	Marketing	Executive	87718.0	2022-12-07 00:00:00	1	2	False
+493	675	3	Finance	Associate	38960.0	2022-02-04 00:00:00	2	5	False
+494	676	1	Sales	Manager	54321.0	2022-12-07 00:00:00	4	5	False
+497	678	5	Operations	Associate	39446.0	2021-09-12 00:00:00	1	5	False
+501	681	2	Marketing	CEO	507545.0	2021-10-06 00:00:00	2	4	False
+503	683	1	Sales	Manager	66056.0	2022-04-24 00:00:00	3	8	False
+505	684	1	Sales	Manager	67972.0	2021-08-28 00:00:00	5	7	False
+507	686	1	Sales	CEO	499558.0	2022-02-03 00:00:00	5	6	False
+508	687	3	Finance	Executive	99414.0	2022-08-22 00:00:00	3	3	False
+509	688	1	Sales	Associate	42862.0	2022-08-23 00:00:00	5	5	False
+510	690	3	Finance	Associate	50118.0	2022-02-14 00:00:00	4	6	False
+511	691	4	Human Resources	Manager	57177.0	2022-11-17 00:00:00	2	5	False
+512	694	1	Sales	Manager	60600.0	2022-04-24 00:00:00	2	4	False
+514	696	3	Finance	Associate	35300.0	2022-06-03 00:00:00	2	4	False
+515	697	3	Finance	Associate	40732.0	2022-06-23 00:00:00	2	4	False
+516	699	5	Operations	Associate	36190.0	2022-12-20 00:00:00	3	6	False
+518	703	2	Marketing	Manager	63437.0	2021-12-16 00:00:00	4	8	False
+519	705	4	Human Resources	Associate	41042.0	2021-11-28 00:00:00	1	6	False
+520	706	4	Human Resources	Manager	53716.0	2022-03-20 00:00:00	4	4	False
+525	711	4	Human Resources	Associate	37863.0	2021-10-05 00:00:00	2	2	False
+526	713	2	Marketing	Manager	57336.0	2022-07-14 00:00:00	1	2	False
+527	715	5	Operations	CEO	501270.0	2021-10-03 00:00:00	2	4	False
+528	716	2	Marketing	Manager	66786.0	2021-12-13 00:00:00	5	5	False
+529	717	2	Marketing	Manager	59609.0	2022-09-25 00:00:00	2	2	False
+530	720	4	Human Resources	Associate	42125.0	2021-10-22 00:00:00	5	5	False
+532	723	4	Human Resources	Executive	77031.0	2022-03-03 00:00:00	4	6	False
+533	726	4	Human Resources	Manager	52725.0	2022-01-19 00:00:00	3	4	False
+534	727	1	Sales	Associate	30616.0	2021-06-18 00:00:00	3	4	False
+535	728	1	Sales	Manager	63733.0	2022-03-16 00:00:00	1	3	False
+538	731	1	Sales	Manager	62501.0	2021-09-08 00:00:00	1	6	False
+541	734	1	Sales	Executive	80982.0	2022-10-14 00:00:00	2	3	False
+543	741	5	Operations	Executive	65634.0	2022-03-24 00:00:00	3	8	False
+545	743	3	Finance	Manager	62038.0	2021-05-15 00:00:00	4	9	False
+546	744	5	Operations	Manager	54950.0	2021-09-06 00:00:00	4	6	False
+548	748	5	Operations	Manager	66013.0	2022-06-20 00:00:00	4	4	False
+549	749	5	Operations	Manager	67917.0	2022-05-10 00:00:00	4	6	False
+550	750	2	Marketing	Manager	54340.0	2022-02-01 00:00:00	5	10	False
+551	751	2	Marketing	Manager	63716.0	2022-10-12 00:00:00	4	4	False
+552	752	4	Human Resources	Associate	49271.0	2021-05-25 00:00:00	1	1	False
+553	754	2	Marketing	Associate	36131.0	2022-10-08 00:00:00	4	4	False
+555	755	4	Human Resources	Manager	60657.0	2022-03-14 00:00:00	3	3	False
+559	761	4	Human Resources	Executive	78813.0	2022-01-25 00:00:00	1	2	False
+560	762	5	Operations	Associate	41606.0	2021-11-10 00:00:00	5	9	False
+563	765	1	Sales	Manager	59288.0	2022-12-11 00:00:00	5	7	False
+564	767	2	Marketing	Manager	62643.0	2022-01-02 00:00:00	5	10	False
+565	768	4	Human Resources	Executive	84016.0	2022-05-02 00:00:00	1	2	False
+566	770	1	Sales	Executive	86537.0	2022-08-02 00:00:00	3	5	False
+567	771	1	Sales	Executive	91615.0	2022-01-04 00:00:00	2	3	False
+570	777	1	Sales	Executive	64949.0	2021-04-16 00:00:00	1	5	False
+573	779	2	Marketing	Associate	37407.0	2021-06-12 00:00:00	3	8	False
+574	781	1	Sales	Executive	72816.0	2022-02-13 00:00:00	2	6	False
+576	782	2	Marketing	Executive	74469.0	2022-01-25 00:00:00	3	3	False
+579	785	1	Sales	Manager	53146.0	2022-07-17 00:00:00	4	9	False
+580	786	2	Marketing	Executive	80891.0	2021-06-09 00:00:00	1	6	False
+581	787	2	Marketing	Executive	57833.0	2021-09-24 00:00:00	2	2	False
+582	788	2	Marketing	Associate	41796.0	2022-07-28 00:00:00	5	8	False
+585	790	3	Finance	Manager	58165.0	2021-04-14 00:00:00	2	6	False
+586	791	3	Finance	Executive	80648.0	2022-07-28 00:00:00	2	7	False
+587	794	3	Finance	Manager	57224.0	2022-04-18 00:00:00	1	6	False
+588	797	3	Finance	Executive	74042.0	2021-06-09 00:00:00	3	6	False
+589	798	1	Sales	Executive	74537.0	2022-11-02 00:00:00	2	3	False
+592	800	1	Sales	Associate	39032.0	2021-05-02 00:00:00	1	3	False
+594	801	4	Human Resources	CEO	508019.0	2021-09-24 00:00:00	1	3	False
+595	802	1	Sales	Executive	73043.0	2021-05-27 00:00:00	4	7	False
+596	804	2	Marketing	Manager	71291.0	2022-11-17 00:00:00	5	5	False
+597	805	4	Human Resources	Executive	69509.0	2021-12-14 00:00:00	5	8	False
+599	807	3	Finance	Executive	74032.0	2022-11-28 00:00:00	4	9	False
+601	810	4	Human Resources	Executive	79414.0	2022-02-20 00:00:00	3	4	False
+602	811	5	Operations	Associate	49788.0	2021-11-23 00:00:00	4	5	False
+603	812	3	Finance	Associate	39273.0	2021-07-15 00:00:00	1	5	False
+605	817	2	Marketing	CEO	489918.0	2022-11-09 00:00:00	3	4	False
+606	818	3	Finance	Manager	52722.0	2022-03-14 00:00:00	3	3	False
+611	826	3	Finance	Associate	45146.0	2021-10-05 00:00:00	3	7	False
+617	842	3	Finance	Associate	47021.0	2022-12-18 00:00:00	3	6	False
+618	843	4	Human Resources	Manager	69118.0	2021-08-17 00:00:00	3	5	False
+620	847	2	Marketing	Manager	66813.0	2022-01-08 00:00:00	3	3	False
+622	849	5	Operations	Manager	52380.0	2022-09-26 00:00:00	4	7	False
+623	851	2	Marketing	Associate	41915.0	2022-03-06 00:00:00	3	3	False
+625	859	2	Marketing	Manager	48585.0	2021-02-07 00:00:00	2	7	False
+630	864	1	Sales	Associate	50599.0	2021-06-21 00:00:00	2	5	False
+631	865	3	Finance	Executive	66203.0	2021-07-13 00:00:00	2	4	False
+633	867	1	Sales	Executive	81452.0	2022-03-25 00:00:00	1	1	False
+638	876	3	Finance	Manager	55859.0	2021-09-29 00:00:00	2	7	False
+639	877	2	Marketing	Associate	30723.0	2022-04-11 00:00:00	1	3	False
+640	880	4	Human Resources	Associate	45489.0	2022-09-01 00:00:00	1	1	False
+643	884	4	Human Resources	Associate	31802.0	2022-07-07 00:00:00	4	4	False
+645	886	1	Sales	Manager	69109.0	2022-04-04 00:00:00	1	4	False
+646	887	4	Human Resources	Manager	56467.0	2021-09-08 00:00:00	5	7	False
+647	889	5	Operations	Manager	65786.0	2021-12-23 00:00:00	5	6	False
+648	891	1	Sales	Executive	81220.0	2021-03-02 00:00:00	1	3	False
+651	893	2	Marketing	Associate	40449.0	2022-01-23 00:00:00	5	7	False
+654	896	5	Operations	Associate	38521.0	2022-03-14 00:00:00	2	5	False
+655	897	5	Operations	Manager	66756.0	2022-03-18 00:00:00	1	5	False
+658	904	1	Sales	Manager	55035.0	2021-10-07 00:00:00	1	4	False
+659	905	3	Finance	Associate	38654.0	2021-11-13 00:00:00	1	3	False
+660	906	5	Operations	Associate	46221.0	2022-11-17 00:00:00	2	2	False
+662	908	1	Sales	CEO	512376.0	2021-04-02 00:00:00	5	10	False
+664	910	1	Sales	Manager	60183.0	2021-01-28 00:00:00	1	5	False
+665	911	5	Operations	Executive	83770.0	2022-10-23 00:00:00	2	6	False
+666	913	2	Marketing	Executive	91623.0	2022-01-15 00:00:00	1	1	False
+667	914	5	Operations	Executive	79398.0	2022-10-10 00:00:00	2	5	False
+668	916	1	Sales	Manager	69319.0	2022-10-21 00:00:00	3	7	False
+670	918	2	Marketing	Executive	83567.0	2021-10-12 00:00:00	1	4	False
+672	920	5	Operations	Manager	35732.0	2022-12-24 00:00:00	5	10	False
+673	921	5	Operations	Executive	76372.0	2022-02-09 00:00:00	2	6	False
+674	923	2	Marketing	Executive	79593.0	2021-07-22 00:00:00	4	9	False
+675	924	2	Marketing	Executive	67708.0	2021-10-09 00:00:00	1	5	False
+676	925	1	Sales	Associate	42573.0	2022-07-24 00:00:00	2	7	False
+677	926	2	Marketing	Manager	59071.0	2021-06-09 00:00:00	5	9	False
+680	929	5	Operations	Associate	43989.0	2021-01-09 00:00:00	3	8	False
+683	932	1	Sales	Executive	72514.0	2022-08-30 00:00:00	2	6	False
+685	936	1	Sales	Executive	91864.0	2021-05-15 00:00:00	3	8	False
+686	938	2	Marketing	Associate	41006.0	2021-11-15 00:00:00	1	6	False
+688	941	4	Human Resources	Manager	45642.0	2020-12-08 00:00:00	5	8	False
+689	942	5	Operations	Associate	38113.0	2021-07-27 00:00:00	1	3	False
+691	946	4	Human Resources	Executive	81497.0	2021-10-22 00:00:00	3	5	False
+693	949	3	Finance	Associate	38023.0	2022-07-04 00:00:00	1	3	False
+695	954	3	Finance	Manager	35501.0	2022-04-22 00:00:00	4	6	False
+697	957	5	Operations	Manager	59459.0	2021-09-03 00:00:00	4	8	False
+698	958	1	Sales	Executive	87510.0	2022-05-13 00:00:00	3	4	False
+700	961	1	Sales	Associate	46681.0	2022-09-14 00:00:00	4	4	False
+701	962	2	Marketing	Associate	44407.0	2021-10-05 00:00:00	4	8	False
+702	963	3	Finance	Manager	53854.0	2022-09-21 00:00:00	3	6	False
+706	966	2	Marketing	Associate	35402.0	2022-07-10 00:00:00	1	2	False
+707	967	1	Sales	Executive	83885.0	2022-12-23 00:00:00	5	5	False
+710	971	3	Finance	Executive	100066.0	2022-06-21 00:00:00	4	8	False
+711	972	3	Finance	Associate	41123.0	2022-08-13 00:00:00	1	4	False
+713	974	2	Marketing	Associate	30612.0	2022-07-18 00:00:00	1	1	False
+714	976	2	Marketing	Executive	69726.0	2021-02-06 00:00:00	4	4	False
+715	979	2	Marketing	Manager	59254.0	2021-08-18 00:00:00	1	6	False
+716	980	5	Operations	Executive	89486.0	2022-06-05 00:00:00	5	10	False
+717	982	1	Sales	Executive	69091.0	2020-12-22 00:00:00	3	3	False
+721	987	4	Human Resources	Associate	40763.0	2022-11-16 00:00:00	5	7	False
+722	989	2	Marketing	Manager	57890.0	2021-07-12 00:00:00	2	2	False
+723	990	2	Marketing	Associate	33678.0	2021-01-10 00:00:00	2	3	False
+724	991	2	Marketing	Executive	70086.0	2021-12-20 00:00:00	3	3	False
+725	992	1	Sales	Manager	47214.0	2022-08-16 00:00:00	1	1	False
+728	997	2	Marketing	Manager	49695.0	2021-09-10 00:00:00	3	4	False
+729	998	4	Human Resources	Associate	41911.0	2022-02-26 00:00:00	4	9	False
+730	999	5	Operations	Associate	41374.0	2022-07-28 00:00:00	4	4	False
+731	1000	4	Human Resources	Executive	79653.0	2021-09-23 00:00:00	2	7	False
+733	1002	1	Sales	Executive	80534.0	2022-09-28 00:00:00	4	7	False
+734	1003	5	Operations	Associate	39644.0	2022-02-20 00:00:00	4	4	False
+735	1004	5	Operations	Associate	43771.0	2022-09-26 00:00:00	4	8	False
+736	1006	4	Human Resources	Associate	40140.0	2021-08-07 00:00:00	4	4	False
+738	1008	5	Operations	Manager	60861.0	2021-07-01 00:00:00	2	6	False
+739	1009	4	Human Resources	Manager	67072.0	2020-10-10 00:00:00	2	6	False
+740	1010	3	Finance	Associate	45563.0	2021-11-11 00:00:00	2	6	False
+744	1018	3	Finance	Associate	47695.0	2021-03-30 00:00:00	1	6	False
+745	1019	3	Finance	Associate	43580.0	2021-07-12 00:00:00	1	6	False
+751	1024	5	Operations	Associate	33432.0	2021-11-16 00:00:00	3	8	False
+752	1025	1	Sales	Executive	78470.0	2022-07-20 00:00:00	5	8	False
+753	1026	1	Sales	Associate	34198.0	2021-04-20 00:00:00	1	3	False
+758	1032	1	Sales	Associate	35240.0	2021-02-14 00:00:00	3	3	False
+760	1033	3	Finance	Associate	48956.0	2021-02-12 00:00:00	2	3	False
+761	1035	3	Finance	Associate	40945.0	2022-04-16 00:00:00	4	4	False
+762	1037	3	Finance	Executive	66185.0	2022-02-23 00:00:00	4	6	False
+764	1040	5	Operations	Associate	40352.0	2021-03-28 00:00:00	5	10	False
+765	1041	4	Human Resources	Manager	59029.0	2021-11-12 00:00:00	1	4	False
+768	1044	4	Human Resources	Manager	70986.0	2022-10-14 00:00:00	5	8	False
+770	1046	5	Operations	Manager	51786.0	2021-05-09 00:00:00	3	4	False
+771	1047	3	Finance	Associate	41982.0	2021-01-10 00:00:00	4	5	False
+772	1050	5	Operations	Associate	39660.0	2021-07-04 00:00:00	2	7	False
+777	1056	4	Human Resources	Manager	57773.0	2021-10-20 00:00:00	3	7	False
+778	1057	2	Marketing	Associate	48661.0	2021-06-16 00:00:00	4	7	False
+779	1058	1	Sales	Manager	55692.0	2021-07-04 00:00:00	1	6	False
+783	1061	1	Sales	Associate	42324.0	2021-12-16 00:00:00	4	5	False
+786	1068	3	Finance	Manager	68082.0	2021-11-17 00:00:00	4	5	False
+788	1070	1	Sales	Associate	44921.0	2021-05-28 00:00:00	2	5	False
+789	1072	4	Human Resources	Associate	36048.0	2021-04-28 00:00:00	3	5	False
+792	1076	1	Sales	Associate	35170.0	2022-02-19 00:00:00	4	5	False
+794	1078	4	Human Resources	Associate	41266.0	2021-09-14 00:00:00	3	5	False
+795	1079	3	Finance	Executive	87431.0	2022-02-25 00:00:00	1	4	False
+796	1080	5	Operations	Executive	80233.0	2022-03-18 00:00:00	5	5	False
+798	1084	3	Finance	Executive	93817.0	2022-12-14 00:00:00	2	5	False
+799	1085	5	Operations	Manager	73125.0	2022-09-09 00:00:00	2	4	False
+802	1088	2	Marketing	Executive	77152.0	2021-01-30 00:00:00	5	10	False
+803	1090	4	Human Resources	Associate	40757.0	2021-05-14 00:00:00	4	6	False
+804	1092	3	Finance	Executive	96518.0	2022-01-04 00:00:00	3	3	False
+805	1093	2	Marketing	Manager	62158.0	2022-01-07 00:00:00	1	4	False
+807	1094	3	Finance	Associate	49856.0	2021-01-13 00:00:00	5	8	False
+809	1097	4	Human Resources	Executive	77401.0	2022-04-19 00:00:00	5	6	False
+812	1100	5	Operations	Associate	37721.0	2022-11-13 00:00:00	2	5	False
+813	1102	5	Operations	Associate	42655.0	2020-12-21 00:00:00	5	6	False
+814	1103	2	Marketing	Associate	45218.0	2022-11-05 00:00:00	1	5	False
+816	1105	1	Sales	Executive	74844.0	2020-08-27 00:00:00	5	7	False
+818	1109	1	Sales	Manager	65354.0	2022-01-07 00:00:00	5	6	False
+819	1110	3	Finance	CEO	502195.0	2022-09-01 00:00:00	5	6	False
+821	1113	3	Finance	Manager	54834.0	2021-10-25 00:00:00	2	4	False
+822	1116	3	Finance	Associate	48621.0	2021-12-03 00:00:00	3	8	False
+823	1117	2	Marketing	Executive	77456.0	2020-10-14 00:00:00	1	4	False
+824	1118	1	Sales	Executive	68808.0	2021-06-04 00:00:00	3	4	False
+825	1119	5	Operations	Manager	53680.0	2021-02-18 00:00:00	3	5	False
+826	1120	5	Operations	Manager	63044.0	2021-01-28 00:00:00	2	2	False
+828	1122	4	Human Resources	Manager	60637.0	2021-07-31 00:00:00	3	4	False
+829	1123	4	Human Resources	Associate	36278.0	2022-06-02 00:00:00	1	2	False
+830	1124	1	Sales	Executive	80151.0	2021-05-28 00:00:00	4	7	False
+831	1125	2	Marketing	Manager	74404.0	2020-12-17 00:00:00	4	9	False
+833	1129	4	Human Resources	Associate	42881.0	2021-07-12 00:00:00	4	7	False
+834	1130	3	Finance	Associate	50088.0	2021-05-03 00:00:00	3	7	False
+835	1132	5	Operations	Associate	35411.0	2021-11-11 00:00:00	2	7	False
+837	1135	2	Marketing	Manager	62004.0	2021-07-02 00:00:00	5	7	False
+838	1136	5	Operations	Associate	33876.0	2020-10-12 00:00:00	5	6	False
+839	1137	2	Marketing	Associate	29428.0	2021-05-28 00:00:00	5	9	False
+841	1140	2	Marketing	Executive	80841.0	2020-11-27 00:00:00	4	8	False
+843	1143	2	Marketing	Associate	50486.0	2022-08-09 00:00:00	1	5	False
+846	1148	2	Marketing	Manager	61121.0	2022-03-09 00:00:00	2	3	False
+847	1149	3	Finance	Executive	89140.0	2021-08-02 00:00:00	3	5	False
+850	1152	5	Operations	Associate	45515.0	2020-09-25 00:00:00	1	2	False
+851	1154	1	Sales	Associate	34005.0	2022-09-19 00:00:00	3	8	False
+854	1156	5	Operations	Executive	83808.0	2022-10-26 00:00:00	3	5	False
+855	1157	3	Finance	Executive	72523.0	2021-11-17 00:00:00	5	5	False
+857	1159	3	Finance	Associate	41407.0	2020-10-26 00:00:00	3	6	False
+860	1162	2	Marketing	Manager	65452.0	2022-06-13 00:00:00	5	7	False
+861	1163	2	Marketing	Associate	35431.0	2022-02-13 00:00:00	4	9	False
+862	1164	3	Finance	Associate	37473.0	2022-05-02 00:00:00	3	3	False
+865	1168	3	Finance	Manager	49692.0	2021-01-02 00:00:00	2	2	False
+867	1170	2	Marketing	Manager	59040.0	2020-11-09 00:00:00	3	7	False
+869	1175	4	Human Resources	Associate	45654.0	2021-10-06 00:00:00	4	5	False
+870	1177	5	Operations	Associate	41828.0	2020-05-23 00:00:00	3	4	False
+871	1178	4	Human Resources	Associate	39548.0	2021-03-02 00:00:00	4	8	False
+872	1179	5	Operations	Manager	73821.0	2021-01-16 00:00:00	2	5	False
+875	1181	2	Marketing	Associate	32167.0	2020-06-14 00:00:00	4	9	False
+877	1185	1	Sales	Manager	58701.0	2020-11-11 00:00:00	1	4	False
+878	1186	1	Sales	Associate	34492.0	2021-10-31 00:00:00	5	5	False
+879	1188	5	Operations	CEO	492646.0	2021-08-14 00:00:00	3	5	False
+881	1191	1	Sales	Manager	55819.0	2021-09-21 00:00:00	1	3	False
+882	1193	1	Sales	Manager	48147.0	2020-08-01 00:00:00	5	8	False
+884	1194	4	Human Resources	Associate	39287.0	2022-03-10 00:00:00	4	8	False
+890	1203	2	Marketing	Associate	47435.0	2021-03-08 00:00:00	3	5	False
+892	1205	4	Human Resources	Manager	75838.0	2022-06-23 00:00:00	2	6	False
+893	1206	5	Operations	Executive	86402.0	2021-05-22 00:00:00	2	6	False
+896	1208	3	Finance	Executive	84354.0	2021-10-23 00:00:00	1	1	False
+897	1210	5	Operations	Manager	43887.0	2022-09-07 00:00:00	1	4	False
+899	1214	4	Human Resources	Manager	65990.0	2022-01-07 00:00:00	4	9	False
+900	1216	1	Sales	Associate	38813.0	2022-01-30 00:00:00	5	10	False
+901	1217	4	Human Resources	Associate	48464.0	2021-09-30 00:00:00	4	8	False
+902	1218	3	Finance	Associate	38273.0	2021-06-22 00:00:00	4	9	False
+909	1229	2	Marketing	Associate	34579.0	2022-09-21 00:00:00	5	8	False
+910	1230	1	Sales	Associate	37094.0	2022-10-20 00:00:00	3	5	False
+911	1232	1	Sales	Manager	57263.0	2021-08-27 00:00:00	4	8	False
+913	1234	4	Human Resources	Executive	83806.0	2020-10-05 00:00:00	4	4	False
+919	1244	3	Finance	Manager	55247.0	2020-10-26 00:00:00	5	7	False
+922	1249	3	Finance	Associate	35415.0	2022-04-30 00:00:00	4	8	False
+927	1256	5	Operations	Executive	74499.0	2022-08-13 00:00:00	3	7	False
+929	1258	4	Human Resources	Associate	32164.0	2022-10-26 00:00:00	4	8	False
+930	1259	4	Human Resources	Executive	93831.0	2021-09-07 00:00:00	3	7	False
+931	1260	4	Human Resources	Manager	51359.0	2020-12-16 00:00:00	2	2	False
+933	1262	5	Operations	Associate	45236.0	2020-06-25 00:00:00	1	3	False
+934	1263	5	Operations	Executive	83430.0	2022-07-02 00:00:00	3	8	False
+936	1265	4	Human Resources	Associate	41383.0	2020-07-03 00:00:00	2	3	False
+937	1266	1	Sales	Associate	38754.0	2021-05-15 00:00:00	3	6	False
+938	1268	2	Marketing	Manager	55819.0	2022-01-21 00:00:00	5	5	False
+939	1269	5	Operations	Manager	64164.0	2020-03-14 00:00:00	2	3	False
+940	1271	5	Operations	Executive	78025.0	2020-10-29 00:00:00	3	3	False
+942	1274	4	Human Resources	Executive	61894.0	2022-04-20 00:00:00	4	8	False
+944	1279	2	Marketing	Associate	43469.0	2022-01-19 00:00:00	5	7	False
+946	1282	1	Sales	Associate	47710.0	2020-05-31 00:00:00	5	7	False
+950	1286	2	Marketing	Associate	33945.0	2022-07-02 00:00:00	1	6	False
+954	1292	5	Operations	Manager	59231.0	2021-07-01 00:00:00	5	10	False
+956	1294	4	Human Resources	Executive	76139.0	2020-08-12 00:00:00	5	9	False
+958	1295	5	Operations	Associate	45002.0	2021-10-29 00:00:00	3	7	False
+960	1296	4	Human Resources	Executive	87127.0	2021-07-22 00:00:00	4	4	False
+962	1298	3	Finance	Executive	80507.0	2020-08-22 00:00:00	5	8	False
+965	1303	5	Operations	Associate	38487.0	2020-10-05 00:00:00	1	3	False
+966	1304	5	Operations	Executive	69401.0	2022-09-09 00:00:00	2	7	False
+967	1308	4	Human Resources	Associate	39027.0	2022-04-10 00:00:00	1	1	False
+969	1312	3	Finance	Manager	51944.0	2021-06-04 00:00:00	3	3	False
+971	1316	4	Human Resources	Manager	57133.0	2020-07-16 00:00:00	1	1	False
+972	1317	5	Operations	Manager	63152.0	2022-08-05 00:00:00	2	2	False
+973	1318	1	Sales	Executive	86618.0	2021-02-13 00:00:00	4	5	False
+974	1319	4	Human Resources	Manager	61048.0	2020-09-03 00:00:00	5	7	False
+975	1320	5	Operations	Manager	69018.0	2021-08-05 00:00:00	4	5	False
+976	1321	4	Human Resources	Executive	83138.0	2021-08-23 00:00:00	4	4	False
+977	1325	5	Operations	Executive	81220.0	2021-07-30 00:00:00	5	7	False
+979	1328	5	Operations	Manager	55483.0	2022-03-03 00:00:00	1	4	False
+980	1329	1	Sales	Associate	32435.0	2020-08-18 00:00:00	4	9	False
+981	1330	5	Operations	Associate	30115.0	2020-02-29 00:00:00	3	3	False
+983	1335	4	Human Resources	Associate	37656.0	2021-12-23 00:00:00	1	1	False
+985	1342	3	Finance	Associate	44170.0	2021-06-13 00:00:00	4	6	False
